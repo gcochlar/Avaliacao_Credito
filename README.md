@@ -8,7 +8,7 @@ Este projeto é a conclusão do Módulo Extra do **Bootcamp de Data Science Apli
 
 O objetivo foi treinar um modelo de *Machine Learning* com dados adaptados a partir de um desafio do [Kaggle](https://www.kaggle.com/rikdifos/credit-card-approval-prediction) e utilizá-lo para simular a avaliação de concessão de crédito para clientes de forma automática, a partir do preenchimento dos dados em uma plataforma *web*.
 
-O resultado final foi disponibilizado usando a plataforma ***Streamlit*** e pode ser conferido [aqui]().
+O resultado final foi disponibilizado usando a plataforma ***Streamlit*** e pode ser conferido [aqui](https://share.streamlit.io/gcochlar/avaliacao_credito/main/simulador_avaliacao_credito.py).
 
 O trabalho de tratamento dos dados, elaboração e testes dos modelos pode ser encontrado neste [notebook](https://github.com/gcochlar/Bootcamp_DataScience/blob/main/Modulo_06/Bootcamp_Mod6_Aula05.ipynb).
 
